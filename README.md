@@ -1,6 +1,8 @@
 # ig-news
 Welcome to <strong>Ig-News</strong>, a application like a read blog about [ReactJs](https://reactjs.org/) news.
 
+You can see the layout on Figma [here](https://www.figma.com/file/fi6bgmeQLf6lWbxtZfSKdp/ig.news?node-id=1%3A2).
+
 This application, built with React and Typescrypt, works with many tools and technologies very useful in the development world, like:
 - [NextJs](https://nextjs.org/): React framework;
 - [Stripe](https://stripe.com/en-br): online payments;
