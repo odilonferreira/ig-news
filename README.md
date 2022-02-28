@@ -1,5 +1,5 @@
 # ig-news
-Welcome to <strong>Ig-News</strong>, a application like a read blog about (ReactJs)[https://reactjs.org/] news.
+Welcome to <strong>Ig-News</strong>, a application like a read blog about [ReactJs](https://reactjs.org/) news.
 
 This application, built with React and Typescrypt, works with many tools and technologies very useful in the development world, like:
 - [NextJs](https://nextjs.org/): React framework;
