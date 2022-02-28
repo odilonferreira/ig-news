@@ -1,5 +1,5 @@
-# ig-news
-Welcome to <strong>Ig-News</strong>, a application like a read blog about [ReactJs](https://reactjs.org/) news.
+# ignews
+Welcome to <strong>IgNews</strong>, a application like a read blog about [ReactJs](https://reactjs.org/) news.
 
 You can see the layout on Figma [here](https://www.figma.com/file/fi6bgmeQLf6lWbxtZfSKdp/ig.news?node-id=1%3A2).
 
