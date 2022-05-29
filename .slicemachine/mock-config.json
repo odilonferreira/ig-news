@@ -8,9 +8,9 @@
           "blocks": 1
         }
       },
-      "Title": {
+      "title": {
         "config": {
-          "patternType": "PARAGRAPH",
+          "patternType": "HEADING",
           "blocks": 1
         }
       }
