@@ -12,9 +12,9 @@
         },
         "type": "UID"
       },
-      "Title": {
+      "title": {
         "config": {
-          "label": "Title",
+          "label": "title",
           "placeholder": "",
           "allowTargetBlank": true,
           "single": "paragraph,preformatted,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
@@ -23,7 +23,7 @@
       },
       "content": {
         "config": {
-          "label": "Content",
+          "label": "content",
           "placeholder": "",
           "allowTargetBlank": true,
           "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
